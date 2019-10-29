@@ -52,6 +52,10 @@ body {
   border-left: none;
 }
 
+.first-nav-item img {
+  height: 22px;
+}
+
 .navbar .sec-to-last-nav-item {
   border-right-width: 2px;
 }
