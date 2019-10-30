@@ -22,7 +22,7 @@ body {
   display: flex;
   width: 980px;
   height: 36px;
-  background-image: url(https://archive.md/UW4oR/959dc37b1b6692997a6d3ab19862dd59e5e83ecf.png);
+  background-image: linear-gradient( rgb(125, 125, 125), rgb(95, 95, 95), rgb(125, 125, 125));
   border-radius: 4px;
   margin: 0 auto 10px;
 }
@@ -46,7 +46,7 @@ body {
   line-height: 20px;
 }
 
-.first-nav-item {
+.navbar .first-nav-item {
   border-top-left-radius: 4px;
   border-bottom-left-radius: 4px;
   border-left: none;
