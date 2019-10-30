@@ -22,7 +22,7 @@ body {
   display: flex;
   width: 980px;
   height: 36px;
-  background-image: linear-gradient( rgb(125, 125, 125), rgb(95, 95, 95), rgb(125, 125, 125));
+  background-image: linear-gradient(rgb(125, 125, 125), rgb(95, 95, 95), rgb(125, 125, 125));
   border-radius: 4px;
   margin: 0 auto 10px;
 }
