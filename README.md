@@ -13,7 +13,7 @@ Clone of an old version of the Apple Website Homepage
 ## About The Project
 
 
-URL to the live version of the project: [Apple Homepage - Clone](https://rawcdn.githack.com/ermin-cahtarevic/apple-store/83a7f12f0f0ed65472a6818dbeb5e3deaf7279a2/index.html)
+URL to the live version of the project: [Apple Homepage - Clone](https://rawcdn.githack.com/ermin-cahtarevic/apple-store/009abb6b913cec17dd1537039cd4b4ac456b212f/index.html)
 
 This a clone of an older version of the Apple Website Homepage. The page used for reference is [Apple - Homepage](https://archive.md/UW4oR).
 
